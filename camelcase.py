@@ -1,4 +1,4 @@
-def camelcase():
+def camelCase():
     word = input("enter a word: ")
     newword = ''
     for i in word:
@@ -9,4 +9,4 @@ def camelcase():
     print("the word:", newword)
     
 #run function
-camelcase()
+camelCase()
