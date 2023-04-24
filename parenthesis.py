@@ -11,3 +11,5 @@ def parenthesis():
             encoded += ')'
         else:
             encoded += '('
+#run function          
+parenthesis()
