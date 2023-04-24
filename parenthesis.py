@@ -11,5 +11,8 @@ def parenthesis():
             encoded += ')'
         else:
             encoded += '('
+            
+    print("the word:", encoded,)
+    
 #run function          
 parenthesis()
